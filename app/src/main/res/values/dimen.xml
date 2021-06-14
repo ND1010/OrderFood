@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //margin
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin_extra">32dp</dimen>
+    <dimen name="margin_super">64dp</dimen>
+
+    //padding
+    <dimen name="padding">8dp</dimen>
+
+</resources>
